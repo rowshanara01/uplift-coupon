@@ -81,7 +81,7 @@ Available API endpoints:
 
 These endpoints predict individual customer uplift scores or process multiple customers in a batch.
 
-## What Real-World Companies Use in Uplift Modeling
+#### What Real-World Companies Use in Uplift Modeling
 
 ### 1. Randomized Controlled Trials (RCT)
 
