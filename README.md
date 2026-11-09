@@ -28,7 +28,7 @@ These customers will purchase because they receive a coupon.
 
 They are the most valuable target group for a coupon campaign.
 
-### Why Do Companies Need Uplift Modeling?
+#### Why Do Companies Need Uplift Modeling?
 
 Most companies use traditional response models to predict:
 
