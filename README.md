@@ -23,7 +23,7 @@ These customers may react negatively to receiving a coupon.
 
 Instead of encouraging a purchase, the coupon may annoy them and reduce the likelihood of buying.
 
-### 4. Persuadables
+#### 4. Persuadables
 These customers will purchase because they receive a coupon.
 
 They are the most valuable target group for a coupon campaign.
