@@ -1,4 +1,4 @@
-# Uplift Modeling: Who Should Receive a Coupon? (Causal Machine Learning)
+## Uplift Modeling: Who Should Receive a Coupon? (Causal Machine Learning)
 
 ## The Problem
 
