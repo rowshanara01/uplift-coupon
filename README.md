@@ -42,7 +42,7 @@ Uplift Modeling predicts:
 
 The goal is to identify Persuadable customers and maximize incremental profit rather than simply predicting purchase probability.
 
-## How to Run the Project
+#### How to Run the Project
 
 Install the dependencies:
 
