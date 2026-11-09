@@ -116,7 +116,7 @@ The model predicts purchase probability under two scenarios:
 
 The difference between these predictions estimates the customer's uplift.
 
-### 3. T-Learner
+#### 3. T-Learner
 
 The T-Learner trains two separate models:
 
