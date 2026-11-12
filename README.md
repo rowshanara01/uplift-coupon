@@ -8,7 +8,7 @@ However, not every customer needs a coupon.
 
 There are four types of customers:
 
-#### 1. Sure Things
+#### 1. Sure Things ####
 These customers will purchase even without a coupon.
 
 Giving them a coupon wastes money because they would have purchased anyway.
