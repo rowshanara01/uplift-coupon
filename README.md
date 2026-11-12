@@ -18,7 +18,7 @@ These customers will not purchase, even if they receive a coupon.
 
 Giving them a coupon is also a waste of money.
 
-#### 3. Sleeping Dogs
+#### 3. Sleeping Dogs #####
 These customers may react negatively to receiving a coupon.
 
 Instead of encouraging a purchase, the coupon may annoy them and reduce the likelihood of buying.
