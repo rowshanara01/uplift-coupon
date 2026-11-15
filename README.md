@@ -1,6 +1,6 @@
-#### Uplift Modeling: Who Should Receive a Coupon? (Causal Machine Learning) ####
+##### Uplift Modeling: Who Should Receive a Coupon? (Causal Machine Learning) ####
 
-#### The Problem  How to run How to run How to run How to run How to run ####
+#### The Problem  How to run How to run How to run How to run How to run #####
 
 Companies frequently send coupons to customers to encourage purchases.
 
